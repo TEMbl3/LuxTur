@@ -12,7 +12,7 @@ app.use(express.static('public'));
 
 
 let mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/Luxtur')
+mongoose.connect('mongodb+srv://artemkh23:1BDyzuzO7W5M1iF1@cluster.iuczapd.mongodb.net/Luxtur')
 
 let hotelSchema = new mongoose.Schema({
   title: String,
@@ -151,7 +151,6 @@ app.get(`/hotels`, async function (req, res) {
 
   let data = await Hotel.find(search).sort({ Stars: -1 })
   res.send(data)
-  console.log(search, 'успешно')
 })
 
 app.get(`/hotel`, async function (req, res) {

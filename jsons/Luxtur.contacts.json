@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "66511df7361e8f21788ad3f6"
+  },
+  "user": "",
+  "phone": "",
+  "mail": "artemkh2233@gmail.com",
+  "createdAt": {
+    "$date": "2024-05-24T23:08:39.657Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T23:08:39.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66511e34e9d473e5de3d459e"
+  },
+  "user": "Артём",
+  "phone": "+79811601034",
+  "hotel": "CRYSTAL PARAISO VERDE Resort & SPA",
+  "mail": "",
+  "createdAt": {
+    "$date": "2024-05-24T23:09:40.089Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T23:09:40.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653a68315c4a439f4e8d6de"
+  },
+  "user": "Артём",
+  "phone": "+79811601034",
+  "hotel": "Kamelya Aishen Club",
+  "mail": "",
+  "createdAt": {
+    "$date": "2024-05-26T21:15:47.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T21:15:47.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653a69715c4a439f4e8d6e3"
+  },
+  "user": "фывфыв",
+  "phone": "+79811601034",
+  "hotel": "CRYSTAL PARAISO VERDE Resort & SPA",
+  "mail": "",
+  "createdAt": {
+    "$date": "2024-05-26T21:16:07.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T21:16:07.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653a6a415c4a439f4e8d6e5"
+  },
+  "user": "Оксана",
+  "phone": "+79811601034",
+  "hotel": "CRYSTAL PARAISO VERDE Resort & SPA",
+  "mail": "",
+  "createdAt": {
+    "$date": "2024-05-26T21:16:20.914Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T21:16:20.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653a6be15c4a439f4e8d6e7"
+  },
+  "user": "",
+  "phone": "",
+  "hotel": "CRYSTAL PARAISO VERDE Resort & SPA",
+  "mail": "artemkh28@bk.ru",
+  "createdAt": {
+    "$date": "2024-05-26T21:16:46.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T21:16:46.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653a6ca15c4a439f4e8d6ea"
+  },
+  "user": "",
+  "phone": "",
+  "mail": "aqrt",
+  "createdAt": {
+    "$date": "2024-05-26T21:16:58.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T21:16:58.631Z"
+  },
+  "__v": 0
+}]
